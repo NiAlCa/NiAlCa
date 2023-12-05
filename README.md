@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [nicolaealexandru.com](nicolaealexandru.com)
 
-- 📝 I regularly write articles on [nicolaealexandru.com/blog](nicolaealexandru.com/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
